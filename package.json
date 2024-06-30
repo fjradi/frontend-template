@@ -13,7 +13,8 @@
     "prettier:fix": "prettier --write .",
     "stylelint:check": "stylelint '**/*.{css,scss}'",
     "stylelint:fix": "stylelint '**/*.{css,scss}' --fix",
-    "prepare": "husky"
+    "prepare": "husky",
+    "type-check": "tsc --noEmit"
   },
   "dependencies": {
     "react": "^18.2.0",

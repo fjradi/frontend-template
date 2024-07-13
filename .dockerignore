@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+!public/
+!src/
+!index.html
+!nginx.conf
+!package.json
+!package-lock.json
+!tsconfig.json
+!tsconfig.node.json
+!vite.config.ts
